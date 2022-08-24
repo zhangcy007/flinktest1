@@ -5,5 +5,6 @@ public class github_test {
         System.out.println("hello 3");
         System.out.println("hello 4");
         System.out.println("master");
+        System.out.println("hot-fix");
     }
 }
